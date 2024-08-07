@@ -1,0 +1,7 @@
+/**
+* @name No Activity List
+* @author instantpot
+* @version 1.0
+* @description oh boy i sure do wonder what this does
+**/
+div[role=listitem]:not([aria-selected]), span.headerContainer_bc6acb, h3.membersGroup_cbd271:first-of-type {display: none;}
