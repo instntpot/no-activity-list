@@ -15,5 +15,3 @@ just download [noactivitylist.theme.css](https://github.com/instntpot/no-activit
 <small>if you use vencord you can also paste [https://raw.githubusercontent.com/instntpot/no-activity-list/main/noactivitylist.theme.css](https://raw.githubusercontent.com/instntpot/no-activity-list/main/noactivitylist.theme.css) into online themes</small>
 
 > "i made this" - instantpot
-<br>
-> <small><small><small>"can i have 20 dollars" - also instantpot</small></small></small>
